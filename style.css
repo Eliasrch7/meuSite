@@ -477,6 +477,15 @@ footer .lineFooter p a {
     text-align: center;
   }
 
+  .sobre .txtSobre p {
+    margin: 40px 2px;
+    text-align: justify;
+  }
+
+  .imgSobre img {
+    margin: 1px 0;
+  }
+
   .emSocial {
     text-align: center;
   }
